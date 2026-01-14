@@ -1,0 +1,1052 @@
+[
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: Fastest way to get your deposit back.\nVisual: Deep cleaning transformation, move-out ready.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Your deposit. Back in your pocket.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: Landlords love this.\nVisual: Property manager walkthrough reaction.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Pass inspection. Keep your money.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: What landlords actually look for.\nVisual: Common inspection points highlighted.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We know what they check.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: Don't lose your deposit to cleaning.\nVisual: Deduction list vs our cleaning service.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Cleaning costs less than deductions.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: Deposit deduction prevention.\nVisual: Before/after of common deduction areas.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Prevent deductions. Hire pros.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: Your landlord will thank you.\nVisual: Spotless unit ready for walkthrough.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Leave on good terms. Full deposit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: What gets deducted from deposits.\nVisual: List of common cleaning deductions.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Avoid this list. Book us.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: Professional clean vs DIY. Deposit edition.\nVisual: Pro results vs rushed DIY attempt.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "DIY risks your deposit. We don't.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: Move-out walkthrough ready.\nVisual: Every room inspection-grade clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Inspection ready. Deposit secure.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "deposit",
+    "script": "Hook: They said I'd lose my deposit. I didn't.\nVisual: Transformation of neglected unit.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Looked hopeless. Got full deposit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Move-out clean in 15 seconds.\nVisual: Empty but dirty to spotless transformation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "From lived-in to move-in ready.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Tenant left this behind. We fixed it.\nVisual: Post-tenant mess to pristine.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Whatever they left. We handle.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Years of buildup. One deep clean.\nVisual: Heavy grime to sparkling surfaces.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Years of neglect. Hours of work.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Kitchen after 5 years of tenants.\nVisual: Greasy, grimy kitchen to fresh.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Kitchen reset complete.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Bathroom that needed serious help.\nVisual: Neglected bathroom restored.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "From rough to ready.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Oven that was never cleaned.\nVisual: Burnt-on grease to clean interior.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Yes, we clean inside ovens.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Fridge left full. Now spotless.\nVisual: Dirty fridge cleared and cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Fridge cleanout included.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Carpet stains from move-out.\nVisual: Stained carpet cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Carpet cleaning available.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Closet that was forgotten.\nVisual: Dusty, dirty closet to clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every closet. Every cabinet.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Windows that hadn't seen a cloth.\nVisual: Grimy windows to clear.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Window cleaning included.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: What a move-out clean actually includes.\nVisual: Full service list with examples.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Comprehensive. Thorough. Complete.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Why move-out cleans cost more.\nVisual: Extra work involved vs regular clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "More scope. More time. Worth it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Inside all appliances.\nVisual: Oven, fridge, microwave interiors cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Inside and out. Every appliance.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: All cabinets and closets.\nVisual: Empty cabinet cleaning sequence.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every shelf. Every drawer.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: How we handle empty units.\nVisual: Cleaning without furniture obstacles.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Empty is easier. Results are better.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Baseboards get full attention.\nVisual: Detailed baseboard cleaning.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Landlords check baseboards. We clean them.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Wall marks and scuffs.\nVisual: Removing marks from walls.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Marks removed where possible.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Light fixtures and vents.\nVisual: Cleaning fixtures and vent covers.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Details that pass inspection.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Door tracks and window sills.\nVisual: Cleaning often-missed spots.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Hidden spots. Not hidden from us.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Final walkthrough with photos.\nVisual: Documenting clean condition.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Photo documentation included.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Move-out clean pricing explained.\nVisual: Factors that affect price.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Fair pricing. Based on your space.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Size matters for move-out pricing.\nVisual: Price ranges by square footage.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Size-based quotes. DM your details.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Condition affects the price.\nVisual: Light cleaning vs heavy restoration.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "More buildup = more work = more cost.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: What's included in base price.\nVisual: Standard move-out checklist.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Know what you're getting.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Add-ons for move-out cleans.\nVisual: Extra services available.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Carpet, windows, heavy cleaning available.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Cheaper than deposit deductions.\nVisual: Cleaning cost vs typical deduction.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Invest in cleaning. Save on deductions.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Get a quote in 5 minutes.\nVisual: Quick quote process.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Send details. Get quote. Simple.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Apartment vs house pricing.\nVisual: Comparison by property type.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Apartments, condos, houses. All covered.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Why we charge per bedroom.\nVisual: Bedroom count affects workload.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Fair pricing by room count.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "pricing",
+    "script": "Hook: Move-in/move-out combo discount.\nVisual: Package deal for moving.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Moving? Clean both places. Save.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: I can clean it myself. Can you though?\nVisual: Pro results vs rushed DIY.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Your time. Your deposit. Worth it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: It's too dirty to save.\nVisual: Heavy mess transformed.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We've seen worse. We fixed it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: I don't have time before moving.\nVisual: Quick booking, same-week service.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Last minute? We try to help.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: My landlord is unreasonable anyway.\nVisual: Documentation and photo proof.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Photos prove the condition. Protection.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: What if stains don't come out?\nVisual: Honest assessment, realistic expectations.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We're honest about what's possible.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: I'm already over budget for moving.\nVisual: Deposit math - cleaning vs deduction.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Cleaning is cheaper than losing deposit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: I need this done tomorrow.\nVisual: Urgent booking availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Rush jobs possible. DM now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: What if the landlord still complains?\nVisual: Re-clean guarantee, photo documentation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We stand behind our work.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: I'm moving far away.\nVisual: Same-day completion option.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Done before you leave. Photos sent.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "objections",
+    "script": "Hook: Won't the new tenant clean anyway?\nVisual: Your deposit at stake, not theirs.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Your deposit. Your responsibility.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Move-out date approaching?\nVisual: Calendar countdown.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Don't wait until the last day.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: End of month move-outs booking now.\nVisual: Month-end calendar filling.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "End of month is busy. Book early.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Walkthrough tomorrow? We're here.\nVisual: Same-day service available.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Emergency clean possible.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Limited move-out spots this week.\nVisual: Available slots highlighted.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This week's almost full.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: First of the month rush.\nVisual: Busy first week of month.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Month start is packed. Book ahead.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Don't risk your deposit.\nVisual: Deposit at stake imagery.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Protect your money. Book now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Lease ends next week?\nVisual: Urgent timeline.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Still time. DM now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Keys due Friday. Clean on Thursday.\nVisual: Tight timeline execution.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We work with tight deadlines.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Summer moving season is here.\nVisual: Busy season alert.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Peak moving season. Book early.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Weekend move-out slots going fast.\nVisual: Weekend availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Weekends fill up. Book now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Why landlords recommend us.\nVisual: Property manager testimonials.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Landlords trust us. Tenants benefit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Property manager approved.\nVisual: PM partnership and trust.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "PM recommended. Deposit saved.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: We know what inspectors check.\nVisual: Inspection point knowledge.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Experience with inspections.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Photo documentation every time.\nVisual: Before/after photo process.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Photos protect you. We provide them.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: 100+ move-outs completed.\nVisual: Experience highlights.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Experienced with move-outs.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Insured for your protection.\nVisual: Insurance coverage info.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Fully insured. Peace of mind.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: What happens after we clean.\nVisual: Photo delivery, guarantee.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Photos sent. Guarantee stands.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Our guarantee for move-outs.\nVisual: Satisfaction guarantee details.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Not right? We come back.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Client got full deposit back.\nVisual: Success story testimonial.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This is the goal. Every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Recommended by real estate agents.\nVisual: Agent partnerships.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Agents trust us with their clients.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Another happy tenant.\nVisual: Client testimonial or text.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Full deposit. Happy client.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: This text made my day.\nVisual: Thank you message screenshot.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Results like this. Every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Landlord passed inspection first try.\nVisual: Inspection success story.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "First try pass. That's the goal.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: 50 move-outs this month.\nVisual: Monthly milestone.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Volume with quality.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Property management company trusts us.\nVisual: PM partnership highlight.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Trusted by professionals.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: 5-star review just came in.\nVisual: Review screenshot.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Reviews speak for themselves.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Repeat client moving again.\nVisual: Return customer booking.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "They come back. That says everything.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Real estate agent referral.\nVisual: Agent recommendation context.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Recommended by the pros.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Three apartments. Same day. All passed.\nVisual: Multi-unit success.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Volume doesn't affect quality.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Why this property manager calls us first.\nVisual: PM relationship testimonial.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "First call for move-outs.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: What landlords legally can't deduct for.\nVisual: Normal wear vs damage explanation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Know your rights. Protect your deposit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Normal wear vs cleaning issues.\nVisual: What's deductible for cleaning.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Cleaning is on you. We help.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Take photos before cleaning.\nVisual: Documentation advice.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Document everything. Before and after.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: What the walkthrough includes.\nVisual: Typical inspection process.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Know what they check.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Most common deduction reasons.\nVisual: Top deduction causes.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Avoid these. Keep your deposit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Timeline for getting deposit back.\nVisual: Legal return timeline.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Know the rules. Protect yourself.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Request a walkthrough before moving.\nVisual: Pre-move inspection tips.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Know what needs attention early.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: What constitutes broom clean.\nVisual: Minimum vs professional clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Broom clean rarely means full deposit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Items often left behind.\nVisual: Common forgotten items.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We clear out what's left.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Dispute unfair deductions.\nVisual: How to challenge improper charges.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Photos help if you need to dispute.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: Do you clean empty or furnished?\nVisual: Both options explained.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Empty preferred. Furnished possible.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: How long does a move-out take?\nVisual: Time ranges by size.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "3-6 hours typical. Size dependent.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: Do you do carpet cleaning?\nVisual: Carpet service options.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Carpet cleaning available. Ask for quote.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: Can you come the day before walkthrough?\nVisual: Scheduling flexibility.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Day before is ideal. We accommodate.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: Do you remove trash left behind?\nVisual: Light debris removal.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Light trash included. Heavy is extra.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: What about window cleaning?\nVisual: Interior windows service.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Interior windows included.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: Do you send photos when done?\nVisual: Photo documentation process.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Before and after photos sent.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: What if I'm already moved?\nVisual: Key drop and remote service.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Leave the key. We handle the rest.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: Do you clean garages?\nVisual: Garage service availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Garage cleaning available as add-on.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "faq",
+    "script": "Hook: When should I book?\nVisual: Ideal booking timeline.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Book as soon as you know your date.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Watch this move-out transformation.\nVisual: Full unit before/after.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "From lived-in to move-in ready.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Empty apartment glow up.\nVisual: Satisfying empty unit clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Ready for the next chapter.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Kitchen move-out transformation.\nVisual: Kitchen before and after.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Kitchen gets the most attention.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Bathroom inspection ready.\nVisual: Bathroom transformation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Bathroom that passes inspection.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Closet cleaning satisfying.\nVisual: Empty closet cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every closet. Every shelf.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Move-out clean ASMR.\nVisual: Satisfying cleaning sounds.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Turn up the sound. 🔊",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Room by room walkthrough.\nVisual: Each room clean and ready.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every room. Every corner.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Appliance cleaning close-up.\nVisual: Oven, fridge interiors cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Inside every appliance.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: Ready for walkthrough.\nVisual: Final result overview.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Inspection ready. Deposit secure.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "simple",
+    "script": "Hook: The before and after everyone loves.\nVisual: Dramatic transformation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This is what we do. 🧼",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: Move-out spots this week.\nVisual: Available days highlighted.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This week's availability. DM to book.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: End of month slots filling.\nVisual: Month-end calendar.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "End of month is busy. Book now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: Same-day move-out possible.\nVisual: Urgent availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Emergency move-out? DM now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: Weekend move-out availability.\nVisual: Saturday/Sunday spots.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Weekends available. Book early.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: First of month rush. Book now.\nVisual: Busy first week calendar.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Month start fills fast.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: Moving season is here.\nVisual: Peak season alert.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Peak season = book ahead.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: Accepting move-out bookings.\nVisual: Open calendar, welcome message.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Moving soon? DM your date.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: Last spot before your walkthrough.\nVisual: Urgent booking.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Don't miss your chance.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: Tomorrow available. Rare.\nVisual: Next-day availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Tomorrow just opened. DM fast.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "booking",
+    "script": "Hook: Book your move-out now.\nVisual: Booking process quick view.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Simple booking. DM with date and size.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Pet owner move-out.\nVisual: Pet hair and odor addressed.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Pet mess handled. Deposit saved.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Smoker's apartment cleaned.\nVisual: Smoke residue removal.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Smoke smell addressed. Not magic, but helps.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Blinds nobody cleaned for years.\nVisual: Blind cleaning transformation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Blinds included in move-out.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Range hood filter reality.\nVisual: Greasy filter to clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We clean what you forget about.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "before_after",
+    "script": "Hook: Door frames and door tops.\nVisual: Dusty door tops cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Inspectors look up. We clean up.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Move-out clean checklist.\nVisual: Full checklist overview.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Comprehensive checklist. Nothing missed.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: How we handle heavy buildup.\nVisual: Extra elbow grease approach.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Heavy buildup? We handle it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Inside the dishwasher too.\nVisual: Dishwasher interior cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every appliance. Inside and out.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Exhaust fans matter.\nVisual: Bathroom fan cleaning.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Details that pass inspection.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "process",
+    "script": "Hook: Cabinet interiors cleaned.\nVisual: Empty cabinet wiped down.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every cabinet. Every shelf.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Deposit guarantee approach.\nVisual: Confidence in our work.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We clean to save your deposit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Been doing move-outs for 3 years.\nVisual: Experience timeline.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Experience you can trust.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: What we guarantee.\nVisual: Guarantee terms.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Not satisfied? We return.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Background checked team.\nVisual: Professional credentials.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Vetted and verified.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "trust",
+    "script": "Hook: Same team. Same quality.\nVisual: Consistent service.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Consistent quality every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: They thought the deposit was gone.\nVisual: Transformation and success.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Looked hopeless. Got full deposit.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Landlord's reaction to our clean.\nVisual: Positive feedback moment.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Even landlords are impressed.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Move-out success story.\nVisual: Client journey to deposit.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Another deposit saved.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: Client referral just came in.\nVisual: Referral appreciation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Referrals = best compliment.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "social_proof",
+    "script": "Hook: From panicked to relieved.\nVisual: Client journey story.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We take the stress away.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Last chance before keys due.\nVisual: Deadline approaching.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Keys due soon? Act now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Inspection scheduled. Clean pending.\nVisual: Timeline crunch.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Inspection soon? We're here.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Don't DIY your move-out.\nVisual: Risk vs reward of professional.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Too much at stake. Hire pros.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: 48 hours until walkthrough.\nVisual: Urgent timeline.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Still time. DM now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "urgency",
+    "script": "Hook: Your deposit is at risk.\nVisual: Stakes visualization.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Protect your money. Book now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Move-out clean vs regular clean.\nVisual: Scope difference explained.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Move-out is more thorough.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Why empty units clean better.\nVisual: Access to all surfaces.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Move out first. Then we clean.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Appliance cleaning importance.\nVisual: Inspection focus areas.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Appliances are checked. We clean them.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Light fixtures and outlets.\nVisual: Detail cleaning points.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Small details. Big impact.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "move_out",
+    "category": "education",
+    "script": "Hook: Walls and marks.\nVisual: What can and can't be cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Scuffs removed. Damage is different.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  }
+]
