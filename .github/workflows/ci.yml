@@ -1,0 +1,232 @@
+name: CI
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+env:
+  PYTHON_VERSION: "3.11"
+  # Inventory gate thresholds (can be overridden per-job)
+  MIN_TEMPLATES_TOTAL: 450
+  MIN_TEMPLATES_DEEP_CLEAN: 150
+  MIN_TEMPLATES_AIRBNB: 150
+  MIN_TEMPLATES_MOVE_OUT: 150
+
+jobs:
+  # ===========================================================================
+  # Smoke Tests (template validation without database)
+  # ===========================================================================
+  smoke-tests:
+    name: Smoke Tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run smoke tests (templates validation)
+        run: python tests/test_a_templates.py
+
+      - name: Run smoke tests (deterministic delivery)
+        run: python tests/test_b_deterministic_delivery.py
+
+      - name: Run smoke tests (timezone boundary)
+        run: python tests/test_c_timezone_boundary.py
+
+      - name: Run smoke tests (stripe sync)
+        run: python tests/test_d_stripe_sync.py
+
+  # ===========================================================================
+  # Content Inventory Gate (requires database)
+  # ===========================================================================
+  inventory-gate:
+    name: Content Inventory Gate
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:15
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: cleaning_shorts_test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready
+          --health-interval 10s
+          --health-timeout 5s
+          --health-retries 5
+
+    env:
+      DATABASE_URL: postgresql://postgres:postgres@localhost:5432/cleaning_shorts_test
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Wait for Postgres
+        run: |
+          until pg_isready -h localhost -p 5432 -U postgres; do
+            echo "Waiting for Postgres..."
+            sleep 2
+          done
+
+      - name: Setup database schema
+        run: |
+          # Apply schema directly via psql
+          python -c "
+          import psycopg2
+          import os
+          from src.db.schema import SCHEMA_SQL, INDEXES_SQL
+
+          conn = psycopg2.connect(os.environ['DATABASE_URL'])
+          conn.autocommit = True
+          cur = conn.cursor()
+
+          # Create tables (skip RLS policies for CI - they require Supabase auth)
+          # Extract just the CREATE TABLE statements
+          schema_no_rls = '''
+          CREATE EXTENSION IF NOT EXISTS \"uuid-ossp\";
+
+          CREATE TABLE IF NOT EXISTS users (
+              id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+              email TEXT UNIQUE NOT NULL,
+              created_at TIMESTAMPTZ DEFAULT NOW(),
+              subscription_status TEXT DEFAULT 'trialing',
+              stripe_customer_id TEXT UNIQUE,
+              stripe_subscription_id TEXT,
+              subscription_started_at TIMESTAMPTZ,
+              subscription_ends_at TIMESTAMPTZ,
+              refund_used BOOLEAN DEFAULT FALSE,
+              last_login_at TIMESTAMPTZ
+          );
+
+          CREATE TABLE IF NOT EXISTS profiles (
+              id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+              user_id UUID REFERENCES users(id) ON DELETE CASCADE UNIQUE NOT NULL,
+              service_type TEXT DEFAULT 'deep_clean',
+              timezone TEXT DEFAULT 'America/New_York',
+              onboarding_completed BOOLEAN DEFAULT FALSE,
+              created_at TIMESTAMPTZ DEFAULT NOW(),
+              updated_at TIMESTAMPTZ DEFAULT NOW()
+          );
+
+          CREATE TABLE IF NOT EXISTS content_templates (
+              id SERIAL PRIMARY KEY,
+              service_type TEXT NOT NULL,
+              script TEXT NOT NULL,
+              caption TEXT NOT NULL,
+              cta TEXT DEFAULT 'DM ''CLEAN'' for pricing & availability.',
+              category TEXT,
+              is_active BOOLEAN DEFAULT TRUE,
+              created_at TIMESTAMPTZ DEFAULT NOW()
+          );
+
+          CREATE TABLE IF NOT EXISTS daily_deliveries (
+              id SERIAL PRIMARY KEY,
+              user_id UUID REFERENCES users(id) ON DELETE CASCADE NOT NULL,
+              template_id INTEGER REFERENCES content_templates(id) NOT NULL,
+              delivered_at TIMESTAMPTZ DEFAULT NOW(),
+              delivery_date DATE NOT NULL,
+              UNIQUE(user_id, delivery_date)
+          );
+
+          CREATE TABLE IF NOT EXISTS refund_log (
+              id SERIAL PRIMARY KEY,
+              user_id UUID REFERENCES users(id) ON DELETE SET NULL,
+              stripe_refund_id TEXT,
+              amount_cents INTEGER,
+              reason TEXT,
+              created_at TIMESTAMPTZ DEFAULT NOW()
+          );
+          '''
+
+          cur.execute(schema_no_rls)
+          cur.execute(INDEXES_SQL)
+
+          cur.close()
+          conn.close()
+          print('Database schema created successfully')
+          "
+
+      - name: Load content templates
+        run: |
+          # Load templates directly from JSON files
+          python -c "
+          import json
+          import os
+          import psycopg2
+          from pathlib import Path
+
+          conn = psycopg2.connect(os.environ['DATABASE_URL'])
+          cur = conn.cursor()
+
+          templates_dir = Path('data/templates')
+          total_inserted = 0
+
+          for json_file in templates_dir.glob('*.json'):
+              with open(json_file) as f:
+                  templates = json.load(f)
+
+              for t in templates:
+                  cur.execute('''
+                      INSERT INTO content_templates (service_type, script, caption, cta, category, is_active)
+                      VALUES (%s, %s, %s, %s, %s, TRUE)
+                  ''', (t['service_type'], t['script'], t['caption'], t['cta'], t.get('category')))
+                  total_inserted += 1
+
+              print(f'Loaded {len(templates)} templates from {json_file.name}')
+
+          conn.commit()
+          cur.close()
+          conn.close()
+          print(f'Total templates loaded: {total_inserted}')
+          "
+
+      - name: Run Content Inventory Gate
+        run: |
+          pytest tests/test_content_inventory_gate.py -v --tb=short
+
+      - name: Inventory Gate Summary
+        if: always()
+        run: |
+          echo "=== Content Inventory Gate Configuration ==="
+          echo "MIN_TEMPLATES_TOTAL: $MIN_TEMPLATES_TOTAL"
+          echo "MIN_TEMPLATES_DEEP_CLEAN: $MIN_TEMPLATES_DEEP_CLEAN"
+          echo "MIN_TEMPLATES_AIRBNB: $MIN_TEMPLATES_AIRBNB"
+          echo "MIN_TEMPLATES_MOVE_OUT: $MIN_TEMPLATES_MOVE_OUT"
+
+  # ===========================================================================
+  # All Tests Must Pass
+  # ===========================================================================
+  all-tests:
+    name: All Tests Pass
+    runs-on: ubuntu-latest
+    needs: [smoke-tests, inventory-gate]
+
+    steps:
+      - name: All tests passed
+        run: echo "✓ All CI checks passed"
