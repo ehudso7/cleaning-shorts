@@ -1,0 +1,1087 @@
+[
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Guest checks in at 4pm. It's 1pm.\nVisual: Fast cleaning montage, clock overlay, finish with key ready.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Turnover mode activated. 🏃",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Airbnb hosts. This is for you.\nVisual: Quick turnover sequence - strip, clean, stage, done.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We know the pressure. We deliver.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Same-day turnover. No problem.\nVisual: Morning checkout to afternoon ready transformation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Checkout to check-in ready. Same day.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: When your cleaner cancels last minute.\nVisual: Phone showing panic, then our number saved.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Backup plan sorted. Save our number.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: 2-hour window. Challenge accepted.\nVisual: Speedy cleaning with timer overlay.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Tight turnovers are our specialty.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Back to back bookings? We've got you.\nVisual: Calendar showing consecutive reservations.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Your bookings stay flowing.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Weekend warrior turnovers.\nVisual: Multiple properties cleaned in one day.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Weekends are our busiest. Book early.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Last-minute booking accepted.\nVisual: Phone notification, quick deployment.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "You accept the booking. We make it happen.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Holiday weekend turnovers booking now.\nVisual: Calendar filling up for holiday period.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Holiday weekends book fast. Secure yours.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Your guest arrives in 3 hours.\nVisual: Countdown timer with cleaning in progress.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We work with your timeline.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Airbnb reset before tonight's guests.\nVisual: Messy post-checkout to hotel-fresh transformation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "From checkout mess to 5-star ready.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: What guests left behind vs what the next guests see.\nVisual: Split screen of messy checkout and pristine reset.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "They'll never know what was here before.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Turnover transformation in 15 seconds.\nVisual: Quick cuts through entire property reset.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every turnover. This quality.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Kitchen after a cooking guest.\nVisual: Greasy mess to sparkling clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "They cooked. We cleaned. Ready for next.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Bathroom reset you can trust.\nVisual: Used bathroom to hotel-standard clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Bathroom standards that get 5 stars.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Bedroom staging after checkout.\nVisual: Unmade beds to perfect hotel-style presentation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "First impression is the bedroom. We nail it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Living area reset for your listing photos.\nVisual: Cluttered space to styled, photo-ready room.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Photo-ready every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Patio guests actually used.\nVisual: Outdoor space with debris to clean and inviting.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Indoor and outdoor covered.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: The fridge guests left for you.\nVisual: Food remnants to empty, clean fridge.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Fridge clear out included.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Party rental aftermath.\nVisual: Post-party mess to pristine space.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We handle the aftermath.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: What hosts miss during quick cleans.\nVisual: Show overlooked spots - under beds, behind toilets, vents.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Guests notice. Reviews show it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Why turnovers need professionals.\nVisual: Compare DIY rush vs professional thoroughness.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Speed AND quality. That's the difference.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Our Airbnb checklist is 47 items.\nVisual: Scrolling checklist with items being checked.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Nothing missed. Ever.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: How we stage for better photos.\nVisual: Towel folding, pillow fluffing, detail work.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Staging sells. We stage right.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Linen service that makes sense.\nVisual: Fresh linens ready, old linens bagged.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Linen swap included. Hotel-fresh beds.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Restocking amenities after every guest.\nVisual: Checking and refilling toiletries, supplies.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Guests never run out of essentials.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: The final walkthrough before guest arrival.\nVisual: Room-by-room quality check, lights, locks.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Final check. Photo confirmation sent.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: How we handle damage discovery.\nVisual: Documenting and reporting damage found.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We're your eyes between guests.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Kitchen turnover in detail.\nVisual: Dishes, counters, appliances, floor sequence.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Kitchen gets the full treatment.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Trash and recycling protocol.\nVisual: Proper disposal, new bags, bins cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every bin. Every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: Why reviews depend on cleanliness.\nVisual: Review screenshots mentioning clean space.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Clean = 5 stars. Simple math.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: What guests actually complain about.\nVisual: Common cleanliness complaints in reviews.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We prevent these complaints.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: Superhost status starts with clean.\nVisual: Superhost badge with cleaning excellence.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Superhosts trust us. You should too.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: The cleanliness score that matters.\nVisual: 5-star cleanliness rating highlighted.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Protect your cleanliness score.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: When guests mention cleaning in reviews.\nVisual: Positive review excerpts about cleanliness.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Good cleaning gets mentioned.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: One bad review costs how much?\nVisual: Booking loss calculation from low rating.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Prevention is cheaper than recovery.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: How cleanliness affects your ranking.\nVisual: Algorithm factors, cleanliness highlighted.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Ranking = bookings = revenue.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: First thing guests check. Cleanliness.\nVisual: Review filter showing cleanliness priority.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Guests filter by clean. Be at the top.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: Average rating vs Superhost rating.\nVisual: The cleanliness gap between levels.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Close the gap with better cleaning.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "reviews",
+    "script": "Hook: What makes a guest say spotless.\nVisual: The details that impress - corners, under beds, fresh scent.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Spotless is a standard. We meet it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: Turnover pricing explained.\nVisual: Breakdown of what's included in turnover rate.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Clear pricing. No surprises.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: Why turnover costs what it does.\nVisual: Time, supplies, quality breakdown.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Value = speed + quality + reliability.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: Per-turnover vs monthly package.\nVisual: Cost comparison for different booking frequencies.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Regular hosts save with packages.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: What affects your turnover price.\nVisual: Size, beds, bathrooms, condition factors.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Fair pricing based on your property.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: Linen service add-on pricing.\nVisual: What's included in linen package.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Fresh linens. Simple add-on.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: Deep clean vs turnover. The difference.\nVisual: Scope comparison of both services.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Know which one you need.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: Multi-property discount.\nVisual: Savings for hosts with multiple listings.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "More properties. Better rates.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: What's extra on turnovers.\nVisual: List of add-ons - deep clean items, laundry, restocking.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Core service vs extras. Transparent.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: Last-minute premium explained.\nVisual: Why urgent turnovers cost more.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Plan ahead to save. But we're here either way.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "pricing",
+    "script": "Hook: How to budget cleaning into your rate.\nVisual: Cleaning fee strategy for listings.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Pass it through. Guests expect it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: We save hosts hours every week.\nVisual: Time calculation - what hosts get back.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Your time back. That's the real value.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Property manager approved.\nVisual: Professional credentials, PM testimonials.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Trusted by property managers.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Why hosts don't switch after this.\nVisual: Consistency clips, reliability message.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Once you find reliable, you stay.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: What happens if we miss something.\nVisual: Re-clean guarantee, communication process.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We make it right. Fast.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: How we communicate with hosts.\nVisual: Photo updates, completion texts, availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "You always know the status.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Keys and access handled right.\nVisual: Lockbox procedure, secure key management.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Secure access. Always.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Insurance for your property.\nVisual: Insurance coverage information.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Covered and protected.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Consistent cleaner for your property.\nVisual: Same person, knows your space.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "They know your place inside out.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Photo confirmation after every clean.\nVisual: Sending completion photos to host.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "See the results. Every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: What we report after every turnover.\nVisual: Damage, missing items, maintenance needs.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Extra eyes on your property.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: 50 properties. One team.\nVisual: Quick clips from different properties.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Scaled for hosts. Personal for each.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Host review of the week.\nVisual: Happy host testimonial or text.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Hosts trust us. Results show.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Another Superhost we support.\nVisual: Superhost badge with our partnership.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Behind every Superhost is great cleaning.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: 100 turnovers this month.\nVisual: Monthly milestone celebration.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Volume with quality. That's the goal.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Why this host switched to us.\nVisual: Before (complaints) vs after (5 stars).\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Results speak louder.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Text from a host this morning.\nVisual: Happy text message screenshot.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This is why we do it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Been cleaning this property for 2 years.\nVisual: Familiar property, consistent quality.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Long-term partnerships built on trust.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Property managers love working with us.\nVisual: PM testimonial or professional relationship.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "PM approved. Host trusted.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: New host onboarded this week.\nVisual: Welcome and first turnover success.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Welcome to worry-free hosting.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: 5-star review thanks to cleaning.\nVisual: Review mentioning cleanliness.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Your reviews. Our work.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: What guests notice first.\nVisual: Entry area, bathroom, kitchen order.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "First impressions are everything.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Smell matters more than you think.\nVisual: Fresh scent strategies, avoiding bad odors.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Bad smell = bad review. We prevent both.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Why hair in the bathroom kills ratings.\nVisual: Hair removal detail, drain checks.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Zero tolerance for previous guest hair.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Bed presentation that impresses.\nVisual: Hotel-style bed making techniques.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Hotel-standard beds. Every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Bathroom towel folding that works.\nVisual: Quick towel presentation techniques.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Small touches. Big impressions.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Why you need a deep clean quarterly.\nVisual: Buildup that regular turnovers miss.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Regular turnovers + quarterly deep = perfect.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Common turnover mistakes hosts make.\nVisual: Shortcuts that lead to bad reviews.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Avoid these. Hire us.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: What to stock for guest satisfaction.\nVisual: Essentials checklist - toilet paper, soap, towels.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Never run out. We check.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Staging tips for better listing photos.\nVisual: Before/after staging improvements.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Better photos = more bookings.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Handling guest messes professionally.\nVisual: Calm approach to challenging cleanups.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Messes happen. We handle them.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: I can do turnovers myself. Can you though?\nVisual: Time and quality comparison.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Your time has value. We save it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: Cleaning fees are too high. Are they though?\nVisual: Guest expectations vs what they pay.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Guests expect quality. Charge for it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: My last cleaner was unreliable.\nVisual: Our reliability stats, communication.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We show up. Every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: What if you damage something?\nVisual: Insurance coverage, careful handling.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Insured and careful.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: I only have a few bookings a month.\nVisual: Per-turnover pricing makes sense.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Pay per turnover. No minimums.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: How do I know you'll show up?\nVisual: Confirmation process, day-of check-in.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Communication keeps you confident.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: My property is far from town.\nVisual: Service area map, travel coverage.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Check our service area. Probably covered.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: What if guests check out late?\nVisual: Flexible timing, communication protocol.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "We adjust. You stay stress-free.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: I need someone available last minute.\nVisual: Quick response, emergency availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Last minute? We try to help.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "objections",
+    "script": "Hook: How do I know the quality will be consistent?\nVisual: Checklist, photo confirmation, reviews.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Systems ensure consistency.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: Do you do laundry and linens?\nVisual: Linen service options explained.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Linen service available. Ask for details.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: How do you get in?\nVisual: Lockbox, smart lock, key options.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Secure access. Your preferred method.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: What if checkout is delayed?\nVisual: Communication and rescheduling process.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Text us. We adjust.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: How long does a turnover take?\nVisual: Time ranges by property size.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "1-3 hours typical. Depends on size.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: Do you restock supplies?\nVisual: Restocking process, supply management.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Restocking available. Never run out.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: Can you handle multiple properties?\nVisual: Multi-property scheduling.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Multiple properties. One reliable team.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: What's your cancellation policy?\nVisual: Policy overview - 24 hour notice.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "24 hours notice. Fair for everyone.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: How do I pay?\nVisual: Payment options and timing.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Easy payment. After each turnover.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: Do you work weekends?\nVisual: Weekend availability confirmation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Weekends are our busiest. Book early.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "faq",
+    "script": "Hook: What if I find an issue after?\nVisual: Re-clean guarantee process.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Not right? We come back.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Watch this turnover.\nVisual: Full turnover time-lapse, no talking.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Start to finish. Every turnover.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Satisfying bed making.\nVisual: Hotel-style bed making sequence.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This is how we make beds. 🛏️",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Room by room in 10 seconds.\nVisual: Quick pan through each room, all clean.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every room. Every turnover.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: From checkout to check-in ready.\nVisual: Before mess, cleaning action, after perfect.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "The full transformation.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Turnover ASMR.\nVisual: Satisfying cleaning sounds, close-ups.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Turn up the sound. 🔊",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Day in the life of an Airbnb cleaner.\nVisual: Multiple properties, driving, cleaning, repeat.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This is what we do. Daily.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Guest ready.\nVisual: Final walkthrough showing ready space.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Ready for your next guest.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Bathroom glow up.\nVisual: Quick bathroom transformation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Bathroom = review maker.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Kitchen reset in 60 seconds.\nVisual: Sped up kitchen turnover.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Kitchen ready for the next chef.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: The details that matter.\nVisual: Close-ups of small touches - remotes aligned, towels folded.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Details make 5-star stays.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: Turnover spots this week.\nVisual: Available days highlighted.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This week's availability. DM to book.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: New host special.\nVisual: First turnover offer details.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "New hosts welcome. Try us.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: Book your regular turnover day.\nVisual: Calendar recurring booking.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Lock in your day. Never worry.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: Weekend turnovers booking fast.\nVisual: Saturday/Sunday filling up.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Weekends go quick. Book now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: Holiday season booking open.\nVisual: Holiday period calendar.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Holiday bookings = holiday turnovers. Book now.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: One spot left this week.\nVisual: Single slot remaining.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Last spot. First to DM gets it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: Same-day available. Rare.\nVisual: Today's date, urgent availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Same day opened. DM fast.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: Accepting new Airbnb clients.\nVisual: Welcome message, onboarding.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "New hosts welcome. DM to start.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: Next month's calendar opening.\nVisual: Fresh month availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Plan ahead. Book early.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "booking",
+    "script": "Hook: Cancellation opened a spot.\nVisual: Surprise availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Spot just opened. DM quick.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: What the last guest left.\nVisual: Messy checkout situation.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "They left this. We fixed it.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Coffee spill on the carpet.\nVisual: Stain treatment and removal.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Accidents happen. We handle them.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Trash that guests left behind.\nVisual: Full cleanup of trash and debris.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "All gone. Like they were never here.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: Kids stayed here.\nVisual: Toys, mess, sticky surfaces - all cleaned.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Family stays need extra care.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "before_after",
+    "script": "Hook: BBQ aftermath.\nVisual: Outdoor grill area cleanup.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Indoor and outdoor covered.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Amenity check every turnover.\nVisual: Checking coffee, toiletries, supplies.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Guests never run out of essentials.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: How we handle check-out surprises.\nVisual: Finding unexpected mess, handling professionally.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Surprises don't phase us.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Remote control placement matters.\nVisual: Staging remotes, devices, small items.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Details create 5-star experiences.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Pillows fluffed just right.\nVisual: Pillow arrangement and fluffing.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Hotel presentation. Your property.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "process",
+    "script": "Hook: Door handles and light switches.\nVisual: High-touch sanitization points.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "High-touch areas. Every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Your property is safe with us.\nVisual: Careful, respectful cleaning footage.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Trusted access. Careful cleaning.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: What hosts say about working with us.\nVisual: Text testimonials from real hosts.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Hosts trust us. You will too.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Reliable means never missing a turnover.\nVisual: Stats on completion rate.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "100% show up rate. Period.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Background checked team.\nVisual: Professional credentials display.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Vetted. Verified. Trusted.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "trust",
+    "script": "Hook: Communication you can count on.\nVisual: Text confirmation, completion updates.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Always know the status.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Just finished turnover number 500.\nVisual: Milestone celebration.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "500 turnovers. Still going strong.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Multi-property host trusts us.\nVisual: Managing multiple listings for one host.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "One team for all your properties.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Guest review mentioning cleanliness.\nVisual: Screenshot of positive guest review.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "This is the goal. Every time.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: 3 years with this Superhost.\nVisual: Long-term partnership highlight.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Loyalty built on results.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "social_proof",
+    "script": "Hook: Why this property manager chose us.\nVisual: PM testimonial on reliability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Property managers need reliability. We deliver.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Peak season booking now.\nVisual: Busy season calendar filling.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Peak season = book early.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Summer turnovers going fast.\nVisual: Summer calendar with limited spots.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Summer's coming. Secure your spot.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Long weekend prep.\nVisual: Holiday weekend cleaning rush.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Long weekends mean extra bookings. We're ready.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: End of month cleaning slots.\nVisual: Month-end availability.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Finishing the month strong.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "urgency",
+    "script": "Hook: Instant book means instant clean.\nVisual: Fast response to booking notifications.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Accept bookings confidently. We're ready.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Deep clean vs turnover frequency.\nVisual: When to do each type.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Regular turnovers + quarterly deep = perfect.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: What affects Airbnb search ranking.\nVisual: Factors including cleanliness score.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Clean properties rank higher. Fact.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Optimal cleaning fee strategy.\nVisual: How to price cleaning for guests.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Right cleaning fee = right expectations.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Guest expectations have increased.\nVisual: Evolution of what guests expect.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Standards are higher now. We match them.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "education",
+    "script": "Hook: Why professional photos need professional clean.\nVisual: Photo shoot prep cleaning.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Photos sell. Clean spaces photograph best.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: This is turnover day.\nVisual: Full day montage of multiple turnovers.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Every day is turnover day.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Ready for check-in.\nVisual: Final walkthrough, everything perfect.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Guest ready. 5-star ready.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Towel game strong.\nVisual: Towel folding and display.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Little touches. Big impressions.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Entry area first impression.\nVisual: Spotless entryway ready for guests.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "First thing they see. Perfect.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  },
+  {
+    "service_type": "airbnb",
+    "category": "simple",
+    "script": "Hook: Closing up after the clean.\nVisual: Final touches, lights off, lock up.\nCTA: DM 'CLEAN' for pricing & availability.",
+    "caption": "Secured and ready.",
+    "cta": "DM 'CLEAN' for pricing & availability."
+  }
+]
